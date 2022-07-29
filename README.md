@@ -27,6 +27,8 @@
 - Deploy to Multiple-Clouds for DR `Planned`
 - Canary Releases `Planned`
 - Blue Green Deployments `Planned`
+- Custom Adapters for any Cloud `Planned`
+- Custom Adapters for any IaC Tool `Planned`
 - Typescript Support `Planned`
 
 ## Install 🛠
