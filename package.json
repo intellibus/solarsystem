@@ -1,7 +1,7 @@
 {
   "type": "module",
   "name": "@intellibus/solarsystem",
-  "version": "1.0.368",
+  "version": "1.0.369",
   "description": "Multi-Cloud Serverless Framework",
   "author": "Intellibus Labs <labs@intellibus.com> (https://intellibus.dev/)",
   "license": "MIT",
